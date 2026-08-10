@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE_ID">
+<a href="https://leetcode.com/https://leetcode.com/u/yasin_shaikh_9030/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
 </a>
 
@@ -45,12 +45,6 @@
 <a href="https://github.com/yasinshaikh9030">
 <img src="https://img.shields.io/badge/GitHub-Yasin9030-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-
-</div>
-
-> ⚠️ Replace `YOUR_LEETCODE_ID` with your actual LeetCode username.
-
----
 
 ## 🛠️ Tech Stack
 
